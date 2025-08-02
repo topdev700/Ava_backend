@@ -1,0 +1,1 @@
+This is a sample document for the RAG system. It contains information about AI and machine learning.

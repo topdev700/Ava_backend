@@ -1,0 +1,27 @@
+# Core LangChain and LangGraph dependencies
+langchain>=0.2.0
+langchain-google-genai>=0.1.0
+langchain-community>=0.2.0
+langgraph>=0.2.0
+langchain-core>=0.2.0
+langchain-text-splitters>=0.2.0
+
+# Vector database
+chromadb>=0.4.22
+langchain-chroma>=0.1.0
+
+# Web framework
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+
+# Data processing
+pydantic>=2.5.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+
+# PDF processing
+pypdf>=3.17.4
+
+# DOC/DOCX processing
+python-docx2txt-0.9
